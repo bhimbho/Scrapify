@@ -1,0 +1,11 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Scraper\\": "class/"
+        }
+    }
+}
